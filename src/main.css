@@ -1,0 +1,6 @@
+@import "./tailwind.css";
+
+body {
+  @apply bg-black text-slate-400;
+  @apply flex items-center justify-center h-screen;
+}
